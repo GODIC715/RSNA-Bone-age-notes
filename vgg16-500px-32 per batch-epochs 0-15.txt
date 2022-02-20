@@ -1,0 +1,60 @@
+Epoch 1/15
+313/313 [==============================] - ETA: 0s - loss: 2750.8069 - mae_months: 35.9336
+Epoch 00001: val_loss improved from inf to 499.74573, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 813s 3s/step - loss: 2750.8069 - mae_months: 35.9336 - val_loss: 499.7457 - val_mae_months: 18.2960 - lr: 0.0010
+Epoch 2/15
+313/313 [==============================] - ETA: 0s - loss: 720.9755 - mae_months: 21.1545
+Epoch 00002: val_loss improved from 499.74573 to 441.26587, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 725s 2s/step - loss: 720.9755 - mae_months: 21.1545 - val_loss: 441.2659 - val_mae_months: 16.9721 - lr: 0.0010
+Epoch 3/15
+313/313 [==============================] - ETA: 0s - loss: 585.8187 - mae_months: 19.0406
+Epoch 00003: val_loss improved from 441.26587 to 364.67322, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 612s 2s/step - loss: 585.8187 - mae_months: 19.0406 - val_loss: 364.6732 - val_mae_months: 15.5032 - lr: 0.0010
+Epoch 4/15
+313/313 [==============================] - ETA: 0s - loss: 491.5146 - mae_months: 17.3599
+Epoch 00004: val_loss improved from 364.67322 to 357.36795, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 600s 2s/step - loss: 491.5146 - mae_months: 17.3599 - val_loss: 357.3680 - val_mae_months: 15.1451 - lr: 0.0010
+Epoch 5/15
+313/313 [==============================] - ETA: 0s - loss: 436.6123 - mae_months: 16.2763
+Epoch 00005: val_loss did not improve from 357.36795
+313/313 [==============================] - 643s 2s/step - loss: 436.6123 - mae_months: 16.2763 - val_loss: 362.2577 - val_mae_months: 15.2426 - lr: 0.0010
+Epoch 6/15
+313/313 [==============================] - ETA: 0s - loss: 399.2945 - mae_months: 15.4719
+Epoch 00006: val_loss did not improve from 357.36795
+313/313 [==============================] - 644s 2s/step - loss: 399.2945 - mae_months: 15.4719 - val_loss: 360.7328 - val_mae_months: 15.2227 - lr: 0.0010
+Epoch 7/15
+313/313 [==============================] - ETA: 0s - loss: 375.5965 - mae_months: 15.0630
+Epoch 00007: val_loss improved from 357.36795 to 329.85452, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 598s 2s/step - loss: 375.5965 - mae_months: 15.0630 - val_loss: 329.8545 - val_mae_months: 14.5950 - lr: 0.0010
+Epoch 8/15
+313/313 [==============================] - ETA: 0s - loss: 355.0682 - mae_months: 14.6690
+Epoch 00008: val_loss did not improve from 329.85452
+313/313 [==============================] - 598s 2s/step - loss: 355.0682 - mae_months: 14.6690 - val_loss: 413.0603 - val_mae_months: 15.9276 - lr: 0.0010
+Epoch 9/15
+313/313 [==============================] - ETA: 0s - loss: 344.7159 - mae_months: 14.4632
+Epoch 00009: val_loss improved from 329.85452 to 315.84756, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 598s 2s/step - loss: 344.7159 - mae_months: 14.4632 - val_loss: 315.8476 - val_mae_months: 14.3548 - lr: 0.0010
+Epoch 10/15
+313/313 [==============================] - ETA: 0s - loss: 320.7498 - mae_months: 13.9971
+Epoch 00010: val_loss did not improve from 315.84756
+313/313 [==============================] - 599s 2s/step - loss: 320.7498 - mae_months: 13.9971 - val_loss: 339.8599 - val_mae_months: 14.8151 - lr: 0.0010
+Epoch 11/15
+313/313 [==============================] - ETA: 0s - loss: 314.0458 - mae_months: 13.9016
+Epoch 00011: val_loss did not improve from 315.84756
+313/313 [==============================] - 647s 2s/step - loss: 314.0458 - mae_months: 13.9016 - val_loss: 322.0305 - val_mae_months: 14.3899 - lr: 0.0010
+Epoch 12/15
+313/313 [==============================] - ETA: 0s - loss: 304.9431 - mae_months: 13.6411
+Epoch 00012: val_loss improved from 315.84756 to 299.19220, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 626s 2s/step - loss: 304.9431 - mae_months: 13.6411 - val_loss: 299.1922 - val_mae_months: 13.8842 - lr: 0.0010
+Epoch 13/15
+313/313 [==============================] - ETA: 0s - loss: 294.5865 - mae_months: 13.3886
+Epoch 00013: val_loss did not improve from 299.19220
+313/313 [==============================] - 599s 2s/step - loss: 294.5865 - mae_months: 13.3886 - val_loss: 300.3020 - val_mae_months: 13.9646 - lr: 0.0010
+Epoch 14/15
+313/313 [==============================] - ETA: 0s - loss: 291.8019 - mae_months: 13.2785
+Epoch 00014: val_loss improved from 299.19220 to 297.11713, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 597s 2s/step - loss: 291.8019 - mae_months: 13.2785 - val_loss: 297.1171 - val_mae_months: 13.8686 - lr: 0.0010
+Epoch 15/15
+313/313 [==============================] - ETA: 0s - loss: 278.6772 - mae_months: 13.0784
+Epoch 00015: val_loss did not improve from 297.11713
+313/313 [==============================] - 596s 2s/step - loss: 278.6772 - mae_months: 13.0784 - val_loss: 300.2840 - val_mae_months: 13.8808 - lr: 0.0010

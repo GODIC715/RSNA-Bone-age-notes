@@ -1,0 +1,58 @@
+Epoch 1/15
+313/313 [==============================] - ETA: 0s - loss: 295.5389 - mae_months: 13.4112
+Epoch 00001: val_loss improved from inf to 284.16980, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 796s 2s/step - loss: 295.5389 - mae_months: 13.4112 - val_loss: 284.1698 - val_mae_months: 13.5195 - lr: 0.0010
+Epoch 2/15
+313/313 [==============================] - ETA: 0s - loss: 280.5948 - mae_months: 13.0927
+Epoch 00002: val_loss improved from 284.16980 to 279.59082, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 819s 3s/step - loss: 280.5948 - mae_months: 13.0927 - val_loss: 279.5908 - val_mae_months: 13.4953 - lr: 0.0010
+Epoch 3/15
+313/313 [==============================] - ETA: 0s - loss: 275.7724 - mae_months: 13.0915
+Epoch 00003: val_loss did not improve from 279.59082
+313/313 [==============================] - 752s 2s/step - loss: 275.7724 - mae_months: 13.0915 - val_loss: 284.9626 - val_mae_months: 13.4691 - lr: 0.0010
+Epoch 4/15
+313/313 [==============================] - ETA: 0s - loss: 273.0371 - mae_months: 12.9104
+Epoch 00004: val_loss did not improve from 279.59082
+313/313 [==============================] - 653s 2s/step - loss: 273.0371 - mae_months: 12.9104 - val_loss: 279.9666 - val_mae_months: 13.4286 - lr: 0.0010
+Epoch 5/15
+313/313 [==============================] - ETA: 0s - loss: 266.5393 - mae_months: 12.8175
+Epoch 00005: val_loss did not improve from 279.59082
+313/313 [==============================] - 638s 2s/step - loss: 266.5393 - mae_months: 12.8175 - val_loss: 284.9306 - val_mae_months: 13.5103 - lr: 0.0010
+Epoch 6/15
+313/313 [==============================] - ETA: 0s - loss: 265.8987 - mae_months: 12.7396
+Epoch 00006: val_loss improved from 279.59082 to 250.13454, saving model to bone_age_weights.best.hdf5
+313/313 [==============================] - 605s 2s/step - loss: 265.8987 - mae_months: 12.7396 - val_loss: 250.1345 - val_mae_months: 12.8014 - lr: 0.0010
+Epoch 7/15
+313/313 [==============================] - ETA: 0s - loss: 264.4291 - mae_months: 12.6543
+Epoch 00007: val_loss did not improve from 250.13454
+313/313 [==============================] - 604s 2s/step - loss: 264.4291 - mae_months: 12.6543 - val_loss: 271.3863 - val_mae_months: 13.2205 - lr: 0.0010
+Epoch 8/15
+313/313 [==============================] - ETA: 0s - loss: 249.8808 - mae_months: 12.4094
+Epoch 00008: val_loss did not improve from 250.13454
+313/313 [==============================] - 675s 2s/step - loss: 249.8808 - mae_months: 12.4094 - val_loss: 261.4990 - val_mae_months: 12.9129 - lr: 0.0010
+Epoch 9/15
+313/313 [==============================] - ETA: 0s - loss: 255.1609 - mae_months: 12.5265
+Epoch 00009: val_loss did not improve from 250.13454
+313/313 [==============================] - 642s 2s/step - loss: 255.1609 - mae_months: 12.5265 - val_loss: 267.8365 - val_mae_months: 13.0699 - lr: 0.0010
+Epoch 10/15
+313/313 [==============================] - ETA: 0s - loss: 250.4184 - mae_months: 12.3585
+Epoch 00010: val_loss did not improve from 250.13454
+313/313 [==============================] - 606s 2s/step - loss: 250.4184 - mae_months: 12.3585 - val_loss: 264.7772 - val_mae_months: 12.9925 - lr: 0.0010
+Epoch 11/15
+313/313 [==============================] - ETA: 0s - loss: 245.1053 - mae_months: 12.2522
+Epoch 00011: val_loss did not improve from 250.13454
+313/313 [==============================] - 605s 2s/step - loss: 245.1053 - mae_months: 12.2522 - val_loss: 256.9355 - val_mae_months: 12.7379 - lr: 0.0010
+Epoch 12/15
+313/313 [==============================] - ETA: 0s - loss: 240.4004 - mae_months: 12.1620
+Epoch 00012: val_loss did not improve from 250.13454
+313/313 [==============================] - 640s 2s/step - loss: 240.4004 - mae_months: 12.1620 - val_loss: 261.2400 - val_mae_months: 12.9601 - lr: 0.0010
+Epoch 13/15
+313/313 [==============================] - ETA: 0s - loss: 243.0357 - mae_months: 12.2372
+Epoch 00013: val_loss did not improve from 250.13454
+313/313 [==============================] - 648s 2s/step - loss: 243.0357 - mae_months: 12.2372 - val_loss: 302.9750 - val_mae_months: 13.9576 - lr: 0.0010
+Epoch 14/15
+313/313 [==============================] - ETA: 0s - loss: 237.1882 - mae_months: 12.1096
+Epoch 00014: val_loss did not improve from 250.13454
+313/313 [==============================] - 725s 2s/step - loss: 237.1882 - mae_months: 12.1096 - val_loss: 253.5983 - val_mae_months: 12.7769 - lr: 0.0010
+Epoch 15/15
+ 55/313 [====>.........................] - ETA: 8:43 - loss: 224.0223 - mae_months: 11.7022
