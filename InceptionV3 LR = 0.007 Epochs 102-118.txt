@@ -1,0 +1,66 @@
+Epoch 1/150
+631/631 [==============================] - ETA: 0s - loss: 17.5424 - mae: 17.5424
+Epoch 00001: val_loss improved from inf to 26.82191, saving model to bone_age_weights.best.hdf5
+631/631 [==============================] - 855s 1s/step - loss: 17.5424 - mae: 17.5424 - val_loss: 26.8219 - val_mae: 26.8219 - lr: 0.0070
+Epoch 2/150
+631/631 [==============================] - ETA: 0s - loss: 16.4147 - mae: 16.4147
+Epoch 00002: val_loss improved from 26.82191 to 21.15364, saving model to bone_age_weights.best.hdf5
+631/631 [==============================] - 807s 1s/step - loss: 16.4147 - mae: 16.4147 - val_loss: 21.1536 - val_mae: 21.1536 - lr: 0.0070
+Epoch 3/150
+631/631 [==============================] - ETA: 0s - loss: 16.4384 - mae: 16.4384
+Epoch 00003: val_loss improved from 21.15364 to 16.78942, saving model to bone_age_weights.best.hdf5
+631/631 [==============================] - 812s 1s/step - loss: 16.4384 - mae: 16.4384 - val_loss: 16.7894 - val_mae: 16.7894 - lr: 0.0070
+Epoch 4/150
+631/631 [==============================] - ETA: 0s - loss: 15.0110 - mae: 15.0110
+Epoch 00004: val_loss did not improve from 16.78942
+631/631 [==============================] - 819s 1s/step - loss: 15.0110 - mae: 15.0110 - val_loss: 26.7988 - val_mae: 26.7988 - lr: 0.0070
+Epoch 5/150
+631/631 [==============================] - ETA: 0s - loss: 14.5891 - mae: 14.5891
+Epoch 00005: val_loss improved from 16.78942 to 16.49123, saving model to bone_age_weights.best.hdf5
+631/631 [==============================] - 768s 1s/step - loss: 14.5891 - mae: 14.5891 - val_loss: 16.4912 - val_mae: 16.4912 - lr: 0.0070
+Epoch 6/150
+631/631 [==============================] - ETA: 0s - loss: 14.6317 - mae: 14.6317
+Epoch 00006: val_loss did not improve from 16.49123
+631/631 [==============================] - 819s 1s/step - loss: 14.6317 - mae: 14.6317 - val_loss: 18.9981 - val_mae: 18.9981 - lr: 0.0070
+Epoch 7/150
+631/631 [==============================] - ETA: 0s - loss: 14.0713 - mae: 14.0713
+Epoch 00007: val_loss did not improve from 16.49123
+631/631 [==============================] - 802s 1s/step - loss: 14.0713 - mae: 14.0713 - val_loss: 21.7131 - val_mae: 21.7131 - lr: 0.0070
+Epoch 8/150
+631/631 [==============================] - ETA: 0s - loss: 14.3116 - mae: 14.3116
+Epoch 00008: val_loss did not improve from 16.49123
+631/631 [==============================] - 774s 1s/step - loss: 14.3116 - mae: 14.3116 - val_loss: 28.7977 - val_mae: 28.7977 - lr: 0.0070
+Epoch 9/150
+631/631 [==============================] - ETA: 0s - loss: 13.9602 - mae: 13.9602
+Epoch 00009: val_loss improved from 16.49123 to 14.30955, saving model to bone_age_weights.best.hdf5
+631/631 [==============================] - 775s 1s/step - loss: 13.9602 - mae: 13.9602 - val_loss: 14.3095 - val_mae: 14.3095 - lr: 0.0070
+Epoch 10/150
+631/631 [==============================] - ETA: 0s - loss: 13.8358 - mae: 13.8358
+Epoch 00010: val_loss did not improve from 14.30955
+631/631 [==============================] - 769s 1s/step - loss: 13.8358 - mae: 13.8358 - val_loss: 20.8878 - val_mae: 20.8878 - lr: 0.0070
+Epoch 11/150
+631/631 [==============================] - ETA: 0s - loss: 13.4504 - mae: 13.4504
+Epoch 00011: val_loss improved from 14.30955 to 13.56560, saving model to bone_age_weights.best.hdf5
+631/631 [==============================] - 769s 1s/step - loss: 13.4504 - mae: 13.4504 - val_loss: 13.5656 - val_mae: 13.5656 - lr: 0.0070
+Epoch 12/150
+631/631 [==============================] - ETA: 0s - loss: 13.3572 - mae: 13.3572
+Epoch 00012: val_loss did not improve from 13.56560
+631/631 [==============================] - 748s 1s/step - loss: 13.3572 - mae: 13.3572 - val_loss: 17.7084 - val_mae: 17.7084 - lr: 0.0070
+Epoch 13/150
+631/631 [==============================] - ETA: 0s - loss: 13.5235 - mae: 13.5235
+Epoch 00013: val_loss did not improve from 13.56560
+631/631 [==============================] - 762s 1s/step - loss: 13.5235 - mae: 13.5235 - val_loss: 20.8151 - val_mae: 20.8151 - lr: 0.0070
+Epoch 14/150
+631/631 [==============================] - ETA: 0s - loss: 13.2677 - mae: 13.2677
+Epoch 00014: val_loss did not improve from 13.56560
+631/631 [==============================] - 733s 1s/step - loss: 13.2677 - mae: 13.2677 - val_loss: 14.3403 - val_mae: 14.3403 - lr: 0.0070
+Epoch 15/150
+631/631 [==============================] - ETA: 0s - loss: 12.8379 - mae: 12.8379
+Epoch 00015: val_loss did not improve from 13.56560
+631/631 [==============================] - 736s 1s/step - loss: 12.8379 - mae: 12.8379 - val_loss: 14.8332 - val_mae: 14.8332 - lr: 0.0070
+Epoch 16/150
+631/631 [==============================] - ETA: 0s - loss: 12.6678 - mae: 12.6678
+Epoch 00016: val_loss improved from 13.56560 to 13.12905, saving model to bone_age_weights.best.hdf5
+631/631 [==============================] - 751s 1s/step - loss: 12.6678 - mae: 12.6678 - val_loss: 13.1290 - val_mae: 13.1290 - lr: 0.0070
+Epoch 17/150
+  9/631 [..............................] - ETA: 9:57 - loss: 11.8391 - mae: 11.8391
